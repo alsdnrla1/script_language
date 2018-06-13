@@ -1,4 +1,5 @@
-import math
+def div(a):
+    print("Result :", a/2)
 
-print(math.log(100))
-print(math.sln(90))
+num = input("input any number : ")
+div(int(num))
